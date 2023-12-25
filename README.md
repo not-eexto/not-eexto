@@ -12,9 +12,7 @@
 </p>
 <p align="center">
     <a href="http://exto.lo.gs" target="_blank">
-        <kbd>
-            <img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/98428i7275FFCDF77E5BD9/"/>
-        </kbd>
+        <img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/98428i7275FFCDF77E5BD9/"/>
     </a>
 </p>
 <h2 id="about-me-">About Me 📌</h2>
