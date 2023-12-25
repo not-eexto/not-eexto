@@ -1,9 +1,4 @@
 <h1 id="hello-world-"><img src="https://emojis.slackmojis.com/emojis/images/1643509953/47763/whacky-wave.gif?1643509953"/>&nbsp;Hello, World!</h1>
-<p align="center">
-    <a href="http://exto.lo.gs" target="_blank">
-      <img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/98419iD560CC97CB9CA9BB/"/>
-    </a>
-</p>
 <p>I&#39;m a passionate Fullstack Developer with a strong interest in Cybersecurity. 🌐🔒</p>
 <p align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="20px"/>
@@ -14,6 +9,11 @@
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
+</p>
+<p align="center">
+    <a href="http://exto.lo.gs" target="_blank">
+      <img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/98419iD560CC97CB9CA9BB/"/>
+    </a>
 </p>
 <h2 id="about-me-">About Me 📌</h2>
 <ul>
