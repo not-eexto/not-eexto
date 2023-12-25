@@ -1,4 +1,4 @@
-<h1 id="hello-world"><img src="https://emojis.slackmojis.com/emojis/images/1643509953/47763/whacky-wave.gif?1643509953"/>&nbsp;Hello, World!</h1>
+<h1 id="hello-world-"><img src="https://emojis.slackmojis.com/emojis/images/1643509953/47763/whacky-wave.gif?1643509953"/>&nbsp;Hello, World!</h1>
 <p>I&#39;m a passionate Fullstack Developer with a strong interest in Cybersecurity. 🌐🔒</p>
 <p align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514559/5584/deployparrot.gif?1643514559" width="20px"/>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud">
 </p>
-<h2 id="about-me">About Me 📌</h2>
+<h2 id="about-me-">About Me 📌</h2>
 <ul>
     <li>🇮🇹 I&#39;m from Italy</li>
     <li>🎓 I studied <strong>System and Network Security</strong> for three years, but I
@@ -19,19 +19,19 @@
     <li>🎯 I plan to resume my studies soon after a temporary pause to gain work experience.</li>
     <li>🌱 I&#39;m constantly learning and improving my skills.</li>
 </ul>
-<h2 id="work-experience">Work Experience 💼</h2>
+<h2 id="work-experience-">Work Experience 💼</h2>
 <ul>
     <li><strong>Fullstack Software Developer</strong> (October 2023 - Present)</li>
     <li><strong>Junior Fullstack Software Developer</strong> (6 weeks, June 2019)</li>
     <li><strong>Junior Banking Data Analyst</strong> (3 weeks, June 2018)</li>
     <li><strong>IT Department Intern</strong> (2 weeks, March 2018)</li>
 </ul>
-<h2 id="certifications">Certifications 🏅</h2>
+<h2 id="certifications-">Certifications 🏅</h2>
 <ul>
     <li><strong>Cisco Networking Academy</strong> - IT Essentials</li>
     <li><strong>Oracle Academy</strong> - Java Foundations and Java Programming</li>
 </ul>
-<h2 id="skills">Skills 💻</h2>
+<h2 id="skills-">Skills 💻</h2>
 <ul>
     <li>Teamwork, Problem-solving, Time Management, Flexibility, Initiative</li>
     <li>Programming in Python, PHP, HTML, CSS, C, C++, NodeJS, Javascript, Java</li>
