@@ -12,7 +12,7 @@
 </p>
 <h2 id="about-me">About Me 📌</h2>
 <ul>
-    <li>🎂 I&#39;m from Italy</li>
+    <li>🇮🇹 I&#39;m from Italy</li>
     <li>🎓 I studied <strong>System and Network Security</strong> for three years, but I
         haven&#39;t graduated yet.</li>
     <li>🚀 Currently, I&#39;m working as a <strong>Fullstack Software Developer</strong>.</li>
