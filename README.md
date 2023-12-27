@@ -44,9 +44,21 @@
     <li>Cybersecurity &amp; Linux</li>
     <li>Project Management</li>
 </ul>
-<p>Feel free to get in touch! 📫</p>
+<p></p>
+<p align="right">
+    <b>Feel free to get in touch, email me! 📫</b>
+    <br>
+    <br>
+    <br>
+</p>
+
 <hr/>
 <p align="center">
   <img src="https://i.giphy.com/HlgE48KBta5nnFXwpV.gif"/><br/>
     <i>Me realizing how to fix the bug...</i>
+    <br>
+    <br>
+    <kbd>
+        <img style="width:20px;" src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/98658i991544B6A79788A2/"/>
+    </kbd>
 </p>
